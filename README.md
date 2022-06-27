@@ -1,5 +1,4 @@
-This is the source code of the Original Store challenge from zh3r0, feel free to use the Dockerfile to set it up and play around the null origin CORS exploit.
-The writeup is avaliable at https://dreyand.github.io/zh3r0-ctfv2/original-store/ while these were the challenge details:
+This is the source code of the Original Store challenge from zh3r0 CTF v2, feel free to use the Dockerfile to set it up and play around the null origin CORS exploit.
 
 # Challenge name: 
 Original Store v2
